@@ -11,6 +11,6 @@ projetos pessoais, veja mais sobre os projetos abaixo!
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCabral26&locale=pt-br&langs_count=10&layout=compact"/>
 <br/>
 
-<img loading="lazy" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
 </div>
