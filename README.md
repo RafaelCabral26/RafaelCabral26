@@ -1,6 +1,7 @@
 ### Olá, me chamo Rafael Cabral!
-Sou desenvolvedor web fullstack. Atualmente estou trabalhando em diversos projetos pessoais, veja mais sobre os projetos abaixo!
-<!--
+Sou desenvolvedor web fullstack. Atualmente estou trabalhando em diversos
+projetos pessoais, veja mais sobre os projetos abaixo!
+
 ###:rocket: Algumas Ferramentas que uso
 <div>
 <a href="https://github.com/RafaelCabral26">
