@@ -4,7 +4,14 @@ projetos pessoais, veja mais sobre os projetos abaixo!
 
 ### :rocket: Algumas Ferramentas que uso
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<style>
+
+<div>
+<a href="https://github.com/RafaelCabral26">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCabral26&show_icons=true&hide=contribs,issues&locale=pt-br"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCabral26&locale=pt-br&langs_count=10&layout=compact"/>
+<br/>
+  <foreignObject width="100%" height="100%">
+    <style>
 .tooltip {
   position: relative;
   display: inline-block;
@@ -42,12 +49,6 @@ projetos pessoais, veja mais sobre os projetos abaixo!
 }
  
 </style>
-<div>
-<a href="https://github.com/RafaelCabral26">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCabral26&show_icons=true&hide=contribs,issues&locale=pt-br"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCabral26&locale=pt-br&langs_count=10&layout=compact"/>
-<br/>
-  <foreignObject width="100%" height="100%">
 <div class="tooltip">Hover over me
   <img loading="lazy" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <span class="tooltiptext">Tooltip text</span>
