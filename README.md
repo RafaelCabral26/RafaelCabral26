@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Rafael Cabral!
 
 <!--
 **RafaelCabral26/RafaelCabral26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/RafaelCabral26">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCabral26&show_icons=true&hide=contribs,issues&locale=pt-br"/>
-<img loading="lazy" height="180em" style="font-size:22px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCabral26&locale=pt-br&langs_count=10&layout=compact"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCabral26&locale=pt-br&langs_count=10&layout=compact"/>
 </div>
