@@ -24,8 +24,7 @@ projetos pessoais, veja mais sobre os projetos abaixo!
            60% { transform: rotate( 0.0deg) }
           100% { transform: rotate( 0.0deg) }
         }
-
-  .container {
+ .container {
           background-color: black;
           width: 100%;
           height: 300px;
@@ -35,8 +34,7 @@ projetos pessoais, veja mais sobre os projetos abaixo!
           color: white;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
-
-  .hi {
+ .hi {
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
@@ -47,7 +45,6 @@ projetos pessoais, veja mais sobre os projetos abaixo!
           }
         }
    </style>
-
    <div class="container">
         <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
       </div>
