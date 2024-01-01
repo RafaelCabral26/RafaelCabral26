@@ -8,3 +8,6 @@ projetos pessoais, veja mais sobre os projetos abaixo!
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCabral26&show_icons=true&hide=contribs,issues&locale=pt-br"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCabral26&locale=pt-br&langs_count=10&layout=compact"/>
 </div>
+<div>
+  <i class="devicon-typescript-plain colored"></i>     
+</div>
