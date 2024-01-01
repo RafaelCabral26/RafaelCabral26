@@ -12,16 +12,7 @@ projetos pessoais, veja mais sobre os projetos abaixo!
 <br/>
 <div>
 <img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
-<img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" />
+<img loading="lazy" title="Javascript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 </div>
 </div>
