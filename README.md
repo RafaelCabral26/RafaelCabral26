@@ -27,15 +27,12 @@ projetos pessoais, veja mais sobre os projetos abaixo!
 
   .container {
           background-color: black;
-
           width: 100%;
           height: 300px;
-
           display: flex;
           justify-content: center;
           align-items: center;
           color: white;
-
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
@@ -44,7 +41,6 @@ projetos pessoais, veja mais sobre os projetos abaixo!
           display: inline-block;
           transform-origin: 70% 70%;
         }
-
         @media (prefers-reduced-motion) {
           .hi {
             animation: none;
