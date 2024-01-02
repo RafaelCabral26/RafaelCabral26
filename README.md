@@ -2,14 +2,16 @@
 Sou desenvolvedor web fullstack. Atualmente estou trabalhando em diversos
 projetos pessoais, veja mais sobre mim abaixo!
 
-### :rocket: Algumas Ferramentas que uso
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div>
 <a href="https://github.com/RafaelCabral26">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCabral26&show_icons=true&hide=contribs,issues&locale=pt-br"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCabral26&locale=pt-br&langs_count=10&layout=compact"/>
+</div>
 <br/>
+  ### :rocket: Algumas Ferramentas que uso
 <div>
 <img loading="lazy" title="Javascript" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img loading="lazy" title="Typescript" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -24,4 +26,4 @@ projetos pessoais, veja mais sobre mim abaixo!
   <img loading="lazy" title="MongoDB" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img loading="lazy" title="Docker" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
-</div>
+
