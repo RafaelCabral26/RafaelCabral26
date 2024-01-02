@@ -19,6 +19,8 @@ projetos pessoais, veja mais sobre mim abaixo!
 <img loading="lazy" title="React" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img loading="lazy" title="VueJS" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img loading="lazy" title="Nextjs" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img loading="lazy" title="TailwindCss" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img loading="lazy" title="Bootstrap" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <br/>
   <img loading="lazy" title="NodeJS" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img loading="lazy" title="Git" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
