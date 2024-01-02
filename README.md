@@ -36,6 +36,11 @@ projetos pessoais, veja mais sobre mim abaixo!
     <img loading="lazy" title="Docker" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
+    🔭 Atualmente estou desenvolvendo Fit&App.
+    🧐 Aprendendo sobre Docker compose, balanceador de cargas e configurações de VPS.
+    👨‍💻 A Maioria dos meus projetos está no Github.
+    💬 Entre em contato se tiver dúvidas sobre as tecnologias que conheço, Estou disponível para ajudar iniciantes!
+
 ### :email: Contatos
 <div>
 <a href = "mailto:rafaelcabral261992@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
