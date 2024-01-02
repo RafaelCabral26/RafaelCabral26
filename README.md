@@ -39,12 +39,14 @@ projetos pessoais, veja mais sobre mim abaixo!
 <br/>
 <br/>
 <div style="margin:300px">
-    🔭 Atualmente estou desenvolvendo <a href="https://fitandapp.site/" target="_blank">Fit&App.</a><br/>
+    🔭 Atualmente estou desenvolvendo <a href="https://github.com/RafaelCabral26/Fit-App" target="_blank">Fit&App.</a><br/>
     🧐 Aprendendo sobre Docker compose, balanceador de cargas e configurações de VPS.<br/>
     👨‍💻 A Maioria dos meus projetos está no Github.<br/>
     💬 Entre em contato se tiver dúvidas sobre as tecnologias que conheço. Estou disponível para ajudar iniciantes!
 </div>
-  
+<br/>
+<br/>
+<br/>
 
 ### :email: Contatos
 <div>
