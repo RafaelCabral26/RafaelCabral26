@@ -33,6 +33,6 @@ projetos pessoais, veja mais sobre mim abaixo!
    <img loading="lazy" title="Linux" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img loading="lazy" title="Nginx" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   <img loading="lazy" title="Apache" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-  <img loading="lazy" title="Bash" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img loading="lazy" title="Bash" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 </div>
 
