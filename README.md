@@ -29,5 +29,6 @@ projetos pessoais, veja mais sobre mim abaixo!
   <img loading="lazy" title="PostgreSql" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img loading="lazy" title="MongoDB" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img loading="lazy" title="Docker" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+   <img loading="lazy" title="Linux" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
