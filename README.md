@@ -35,11 +35,13 @@ projetos pessoais, veja mais sobre mim abaixo!
   <img loading="lazy" title="Bash" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
     <img loading="lazy" title="Docker" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
-
+<div>
     🔭 Atualmente estou desenvolvendo Fit&App.
     🧐 Aprendendo sobre Docker compose, balanceador de cargas e configurações de VPS.
     👨‍💻 A Maioria dos meus projetos está no Github.
-    💬 Entre em contato se tiver dúvidas sobre as tecnologias que conheço, Estou disponível para ajudar iniciantes!
+    💬 Entre em contato se tiver dúvidas sobre as tecnologias que conheço. Estou disponível para ajudar iniciantes!
+</div>
+  
 
 ### :email: Contatos
 <div>
