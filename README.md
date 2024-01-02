@@ -11,6 +11,7 @@ projetos pessoais, veja mais sobre mim abaixo!
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCabral26&locale=pt-br&langs_count=10&layout=compact"/>
 </div>
 <br/>
+  
 ### :rocket: Algumas Ferramentas que uso
 <div>
 <img loading="lazy" title="Javascript" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
