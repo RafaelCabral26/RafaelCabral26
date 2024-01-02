@@ -13,7 +13,7 @@ projetos pessoais, veja mais sobre mim abaixo!
 <br/>
   
 ### :rocket: Algumas Ferramentas que uso
-<div align="center">
+<div style="display:flex; justify-content:space-around">
 <img loading="lazy" title="Javascript" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img loading="lazy" title="Typescript" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img loading="lazy" title="React" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
