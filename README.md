@@ -15,6 +15,6 @@ projetos pessoais, veja mais sobre mim abaixo!
 <img loading="lazy" title="Typescript" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img loading="lazy" title="NodeJS" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img loading="lazy" title="React" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img loading="lazy" title="NodeJS" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" />
+  <img loading="lazy" title="NodeJS" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
 </div>
