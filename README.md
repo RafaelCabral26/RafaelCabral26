@@ -35,6 +35,9 @@ projetos pessoais, veja mais sobre mim abaixo!
   <img loading="lazy" title="Bash" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
     <img loading="lazy" title="Docker" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
+<br/>
+<br/>
+<br/>
 <div style="margin:300px">
     🔭 Atualmente estou desenvolvendo <a href="https://fitandapp.site/" target="_blank">Fit&App.</a><br/>
     🧐 Aprendendo sobre Docker compose, balanceador de cargas e configurações de VPS.<br/>
