@@ -16,12 +16,13 @@ projetos pessoais, veja mais sobre mim abaixo!
 <div>
 <img loading="lazy" title="Javascript" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img loading="lazy" title="Typescript" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img loading="lazy" title="NodeJS" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img loading="lazy" title="React" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img loading="lazy" title="VueJS" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img loading="lazy" title="Nextjs" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <br/>
+  <img loading="lazy" title="NodeJS" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img loading="lazy" title="Git" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img loading="lazy" title="Php" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img loading="lazy" title="Nextjs" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img loading="lazy" title="MySQL" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img loading="lazy" title="PostgreSql" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img loading="lazy" title="MongoDB" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
