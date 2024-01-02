@@ -13,7 +13,7 @@ projetos pessoais, veja mais sobre mim abaixo!
 <br/>
   
 ### :rocket: Algumas Ferramentas que uso
-<div style="display:flex; justify-content:space-around">
+<div>
 <img loading="lazy" title="Javascript" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img loading="lazy" title="Typescript" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img loading="lazy" title="React" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -38,7 +38,7 @@ projetos pessoais, veja mais sobre mim abaixo!
 <br/>
 <br/>
 <br/>
-<div style="margin:300px">
+<div>
     🔭 Atualmente estou desenvolvendo <a href="https://github.com/RafaelCabral26/Fit-App" target="_blank">Fit&App.</a><br/>
     🧐 Aprendendo sobre Docker compose, balanceador de cargas e configurações de VPS.<br/>
     👨‍💻 A Maioria dos meus projetos está no Github.<br/>
