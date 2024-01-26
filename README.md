@@ -47,8 +47,6 @@ projetos pessoais, veja mais sobre mim abaixo!
 <br/>
 <br/>
 <br/>
-<iframe src="https://hackerrank-badge.herokuapp.com/RafaelCabral26" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
-<br/>
 
 ### :email: Contatos
 <div>
